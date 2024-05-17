@@ -90,3 +90,5 @@ For more information on the Helm chart, consult [its readme](deploy/chart/devspe
 ## Contributing
 
 Please see our [contributing.md](./CONTRIBUTING.md).
+
+# PR Update: 2025-12-03 13:37:42
